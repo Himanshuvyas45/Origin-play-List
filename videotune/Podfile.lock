@@ -1,0 +1,16 @@
+PODS:
+  - YouTubePlayer-Swift (1.0)
+
+DEPENDENCIES:
+  - YouTubePlayer-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - YouTubePlayer-Swift
+
+SPEC CHECKSUMS:
+  YouTubePlayer-Swift: ae82f4bcb504162a872b852596a9dc1fa3828c34
+
+PODFILE CHECKSUM: 8bb41e8b3950419f9463a233df794e2f09e67804
+
+COCOAPODS: 1.6.1
